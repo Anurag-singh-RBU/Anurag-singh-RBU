@@ -26,8 +26,8 @@
 ---
 
 ## 📌 Projects  
-🚀 **WEATHER APP [Want To See : https://github.com/Anurag-singh-RBU/WEATHER-APP]**</br>
-🔹 **FLIPKART CLONE [Want To See : https://github.com/Anurag-singh-RBU/FLIPKART]**
+🚀 **WEATHER APP || Want To See : https://github.com/Anurag-singh-RBU/WEATHER-APP**</br>
+🔹 **FLIPKART CLONE || Want To See : https://github.com/Anurag-singh-RBU/FLIPKART**
 
 ---
 
