@@ -32,8 +32,8 @@
 ---
 
 ## 📌 Projects  
-🚀 **WEATHER APP [Want To See : https://github.com/Anurag-singh-RBU/WEATHER-APP]** | A weather app using HTML , CSS and JAVASCRIPT with the help of weather API  
-🔹 **FLIPKART CLONE [Want To See : https://[Want To See : https://github.com/Anurag-singh-RBU/FLIPKART]** | Flipkart homepage (using HTML , JS and CSS) including Login and Signup functionality with proper validations.  
+🚀 **WEATHER APP [Want To See : https://github.com/Anurag-singh-RBU/WEATHER-APP]** | A weather app using HTML , CSS and JAVASCRIPT 
+🔹 **FLIPKART CLONE [Want To See : https://github.com/Anurag-singh-RBU/FLIPKART]** | Flipkart homepage (using HTML , JS and CSS) 
 
 ---
 
