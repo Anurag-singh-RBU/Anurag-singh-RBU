@@ -21,8 +21,7 @@
 
 ## 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag-singh-RBU&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-singh-RBU&layout=compact&theme=tokyonight&cache_seconds=3600) 
-![GitHub Streak](https://streak-stats.demolab.com/?user=devmaster&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-singh-RBU&layout=compact&theme=tokyonight&cache_seconds=3600)  
 ---
 
 <h3 align="left">Support :</h3>
