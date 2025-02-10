@@ -32,14 +32,8 @@
 ---
 
 ## 📌 Projects  
-🚀 **[Project Name](https://github.com/yourusername/project-link)** - Short project description  
-🔹 **[Project Name](https://github.com/yourusername/project-link)** - Another cool project  
-
----
-
-## 📌 Projects  
-🚀 **[Project Name](https://github.com/yourusername/project-link)** - Short project description  
-🔹 **[Project Name](https://github.com/yourusername/project-link)** - Another cool project  
+🚀 **[Project Name](https://github.com/Anurag-Singh-RBU/project-link)** - Short project description  
+🔹 **[Project Name](https://github.com/Anurag-Singh-RBU/project-link)** - Another cool project  
 
 ---
 
@@ -55,7 +49,7 @@
 ---
 
 ## 🎯 **Final Thought**  
-> 🚀 **"Eat(), Sleep(), Code(), Debug(), Repeat() 🔁💻"**  
+> 🚀 **"Eat() , Sleep() , Code() , Debug() , Repeat() 🔁💻"**  
 > ☕ **"Life’s too short for bad code – optimize it like a LeetCode problem!"** 🔥 
 ---
 
