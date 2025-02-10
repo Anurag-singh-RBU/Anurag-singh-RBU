@@ -32,8 +32,8 @@
 ---
 
 ## 📌 Projects  
-🚀 **[Project Name](https://github.com/Anurag-Singh-RBU/project-link)** - Short project description  
-🔹 **[Project Name](https://github.com/Anurag-Singh-RBU/project-link)** - Another cool project  
+🚀 **WEATHER APP(https://github.com/Anurag-singh-RBU/WEATHER-APP)** - Short project description  
+🔹 **FLIPKART CLONE(https://github.com/Anurag-Singh-RBU/project-link)** - Another cool project  
 
 ---
 
