@@ -27,8 +27,9 @@
 
 ## 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag-singh-RBU&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Anurag-singh-RBU&layout=compact&theme=tokyonight)  
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Anurag-singh-RBU=devmaster&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=devmaster&theme=tokyonight)  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?Anurag-singh-RBU=devmaster&theme=tokyonight&no-frame=true&margin-w=5)  
 ---
 
 ## 📌 Projects  
