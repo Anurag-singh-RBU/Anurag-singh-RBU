@@ -8,7 +8,7 @@
 - 🎨 Love working with **Tailwind CSS , Bootstrap & SASS**  
 - ⚡ Passionate about **Web Performance & Scalable Architecture**  
 - 🤖 Exploring **ChatGPT , GenAI & AI-powered Development**  
-- 📫 Reach me at : singhar_7@rknec.edu
+- 📫 Reach me at : singhar_7@rknec.edu OR anuragsingh260805@gmail.com
 - ***"I don't need Social Media , My social network is Git , and my status is 'committed' !"*** 🚀😘❤️
 
 ---
