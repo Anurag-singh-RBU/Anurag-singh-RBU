@@ -25,7 +25,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=devmaster&theme=tokyonight)  
 ---
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support :</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
 ---
