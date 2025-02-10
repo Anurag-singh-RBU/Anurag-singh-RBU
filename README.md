@@ -44,7 +44,7 @@
 
 ## 🎯 **Final Thought**  
 > 🚀 **"Eat() , Sleep() , Code() , Debug() , Repeat() 🔁💻"**  
-> ☕ **"Life’s too short for bad code – optimize it like a LeetCode problem!"** 🔥 
+> ☕ **"Life’s too short for bad code – optimize it like a LeetCode problem !"** 🔥 
 ---
 
-😎 **"Talk is cheap. Show me the Java!"** ☕🔥  
+😎 **"Talk is cheap. Show me the Java !"** ☕🔥  
