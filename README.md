@@ -8,7 +8,7 @@
 - 🎨 Love working with **Tailwind CSS , Bootstrap & SASS**  
 - ⚡ Passionate about **Web Performance & Scalable Architecture**  
 - 🤖 Exploring **ChatGPT , GenAI & AI-powered Development**  
-- 📫 Reach me at : singhar_7@rknec.edu (***"I don't need Social Media , My social network is Git , and my status is 'committed' !"*** 🚀😆  ) 
+- 📫 Reach me at : singhar_7@rknec.edu (***"I don't need Social Media , My social network is Git , and my status is 'committed' !"*** 🚀😘❤️  ) 
 
 ---
 
