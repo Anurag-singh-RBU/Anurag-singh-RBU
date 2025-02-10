@@ -26,14 +26,14 @@
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag-singh-RBU&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Anurag-singh-RBU&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📌 Projects  
-🚀 **WEATHER APP(https://github.com/Anurag-singh-RBU/WEATHER-APP)** - Short project description  
-🔹 **FLIPKART CLONE(https://github.com/Anurag-Singh-RBU/project-link)** - Another cool project  
+🚀 **WEATHER APP [Want To See : https://github.com/Anurag-singh-RBU/WEATHER-APP]** | A weather app using HTML , CSS and JAVASCRIPT with the help of weather API  
+🔹 **FLIPKART CLONE [Want To See : https://[Want To See : https://github.com/Anurag-singh-RBU/FLIPKART]** | Flipkart homepage (using HTML , JS and CSS) including Login and Signup functionality with proper validations.  
 
 ---
 
