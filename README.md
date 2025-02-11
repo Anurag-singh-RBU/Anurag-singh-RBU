@@ -27,7 +27,7 @@
 <p><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="250" alt="simplified learner"/></p>
 
 ---
-## 📌 Projects  
+## 📌 Some Projects  
 🚀 **WEATHER APP --> Want To See : https://github.com/Anurag-singh-RBU/WEATHER-APP**</br>
 🔹 **FLIPKART CLONE --> Want To See : https://github.com/Anurag-singh-RBU/FLIPKART**
 
