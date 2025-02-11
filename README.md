@@ -1,4 +1,3 @@
-# 🚀 Hi there , I'm Anurag Singh !! 👋 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=38&duration=7000&pause=1000&color=0074e4&height=100&width=1100&&lines=Hi,+I'm+Anurag+Singh+and+Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍" alt="Typing SVG">
 </div>
