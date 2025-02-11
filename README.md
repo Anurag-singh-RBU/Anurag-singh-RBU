@@ -5,7 +5,7 @@
 ## 🧑‍💻 About Me 
 - 💻 **Java Developer | Full-Stack Enthusiast**  
 - 🌱 Currently learning **Backend & ReactJs**  
-- 🎨 Love working with **Tailwind CSS , Bootstrap & SASS**  
+- 🎨 Love working with **Vanilla JavaScript , Bootstrap & SASS**  
 - ⚡ Passionate about **Web Performance & Scalable Architecture**  
 - 🤖 Exploring **ChatGPT , GenAI & AI-powered Development**  
 - 📫 Reach me at : singhar_7@rknec.edu OR anuragsingh260805@gmail.com
