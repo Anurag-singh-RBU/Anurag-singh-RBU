@@ -24,7 +24,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-singh-RBU&layout=compact&theme=tokyonight&cache_seconds=3600)  
 ---
 <h3 align="left">Support:</h3>
-<p><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="210" alt="simplified learner"/></p><br><br>
+<p><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="250" alt="simplified learner"/></p>
 
 ---
 ## 📌 Projects  
