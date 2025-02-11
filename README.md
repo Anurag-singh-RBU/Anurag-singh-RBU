@@ -23,9 +23,9 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag-singh-RBU&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-singh-RBU&layout=compact&theme=tokyonight&cache_seconds=3600)  
 ---
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
-<h3 align="left">Support :</h3>
-<p><a href="https://www.buymeacoffee.com/simplified"></p><br><br>
 
 ---
 ## 📌 Projects  
