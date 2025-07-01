@@ -5,8 +5,8 @@
 
 ## 🧑‍💻 About Me 
 - 💻 **Java Developer | Full-Stack Enthusiast**  
-- 🌱 Currently learning **Backend & ReactJs**  
-- 🎨 Love working with **Vanilla JavaScript , Bootstrap & SASS**  
+- 🌱 Currently learning **Backend**  
+- 🎨 Love working with **Vanilla Typescript , Tailwind & SASS**  
 - ⚡ Passionate about **Web Performance & Scalable Architecture**  
 - 🤖 Exploring **ChatGPT , GenAI & AI-powered Development**  
 - 📫 Reach me at : singhar_7@rknec.edu OR anuragsingh260805@gmail.com
@@ -26,11 +26,6 @@
 ---
 <h3 align="left">Support:</h3>
 <p><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="250" alt="simplified learner"/></p>
-
----
-## 📌 Some Projects  
-🚀 **WEATHER APP --> Want To See : https://github.com/Anurag-singh-RBU/WEATHER-APP**</br>
-🔹 **FLIPKART CLONE --> Want To See : https://github.com/Anurag-singh-RBU/FLIPKART**
 
 ---
 
