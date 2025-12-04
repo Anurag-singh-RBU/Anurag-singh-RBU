@@ -3,14 +3,8 @@
 </div>
 <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-## 🧑‍💻 About Me 
-- 💻 **Java Developer | Full-Stack Enthusiast**  
-- 🌱 Currently learning **Backend**  
-- 🎨 Love working with **Vanilla Typescript , Tailwind & SASS**  
-- ⚡ Passionate about **Web Performance & Scalable Architecture**  
-- 🤖 Exploring **ChatGPT , GenAI & AI-powered Development**  
-- 📫 Reach me at : singhar_7@rknec.edu OR anuragsingh260805@gmail.com
-- ***"I don't need Social Media , My social network is Git , and my status is 'committed' !"*** 🚀😘❤️
+## About Me 
+Hello World ✨ I am AЛUᖇAG — A Full Stack Web Developer passionate about creating high performance, user centric software solutions with intuitive and engaging designs. I have expertise in frameworks like React Js, Node Js and Next Js. I leverage AWS Services to create efficient and reliable solutions. MongoDB and PostgreSQL for database management, Clerk and Zustand for effective authentication and state management.
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=Anurag-singh-RBU&color=blue&style=flat) <a><img src="https://img.shields.io/github/followers/Anurag-singh-RBU?label=Followers&style=social" alt="GitHub Badge"></a>    
