@@ -4,7 +4,14 @@
 <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ## About Me 
-Hello World ✨ I am AЛUᖇAG — A Full Stack Web Developer passionate about creating high performance, user centric software solutions with intuitive and engaging designs. I have expertise in frameworks like React Js, Node Js and Next Js. I leverage AWS Services to create efficient and reliable solutions. MongoDB and PostgreSQL for database management, Clerk and Zustand for effective authentication and state management.
+<div style="text-align: justify; text-justify: inter-word;">
+  Hello World ✨ I am AЛUᖇAG — A Full Stack Web Developer passionate about 
+  creating high performance, user centric software solutions with intuitive 
+  and engaging designs. I have expertise in frameworks like React Js, Node Js 
+  and Next Js. I leverage AWS Services to create efficient and reliable 
+  solutions. MongoDB and PostgreSQL for database management, Clerk and Zustand 
+  for effective authentication and state management.
+</div>
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=Anurag-singh-RBU&color=blue&style=flat) <a><img src="https://img.shields.io/github/followers/Anurag-singh-RBU?label=Followers&style=social" alt="GitHub Badge"></a>    
