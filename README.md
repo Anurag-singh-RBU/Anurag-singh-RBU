@@ -12,5 +12,4 @@
   solutions. MongoDB and PostgreSQL for database management, Clerk and Zustand 
   for effective authentication and state management.
 </div>
----
 
