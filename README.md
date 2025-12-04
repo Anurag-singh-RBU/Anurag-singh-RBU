@@ -12,14 +12,5 @@
   solutions. MongoDB and PostgreSQL for database management, Clerk and Zustand 
   for effective authentication and state management.
 </div>
-
----
-![Profile Views](https://komarev.com/ghpvc/?username=Anurag-singh-RBU&color=blue&style=flat) <a><img src="https://img.shields.io/github/followers/Anurag-singh-RBU?label=Followers&style=social" alt="GitHub Badge"></a>    
-
-## 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anurag-singh-RBU) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/anurag_singh_rbu) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AnuragRBU)
-
-
-
 ---
 
