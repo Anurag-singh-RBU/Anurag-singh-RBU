@@ -1,7 +1,8 @@
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 200vh;">
 <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=50&duration=7000&pause=1000&color=0000FF&height=100&width=1100&&lines=Hi+,+I'm+Anurag+Singh+and+Welcome+to+my+GitHub+Profile+!..+🙏✌😍;Nice+to+meet+you...👍✌😍" alt="Typing SVG">
-</div>
-<img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</div><p align="center">
+  <img src="./banner.png" alt="Banner" />
+</p>
 
 ## About Me 
 <div style="text-align: justify; text-justify: inter-word;">
