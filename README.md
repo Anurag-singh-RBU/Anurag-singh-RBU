@@ -1,8 +1,6 @@
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 200vh;">
 <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=50&duration=7000&pause=1000&color=0000FF&height=100&width=1100&&lines=Hi+,+I'm+Anurag+Singh+and+Welcome+to+my+GitHub+Profile+!..+🙏✌😍;Nice+to+meet+you...👍✌😍" alt="Typing SVG">
-</div><p align="center">
-  <img src="./banner.png" alt="Banner" />
-</p>
+</div>
 
 ## About Me 
 <div style="text-align: justify; text-justify: inter-word;">
