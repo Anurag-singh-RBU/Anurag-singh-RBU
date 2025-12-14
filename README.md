@@ -1,7 +1,13 @@
-## About Me 
-<div style="text-align: justify; text-justify: inter-word;">
-Hello World ✨ I am AЛUᖇAG — A Full Stack Web Developer passionate about creating high performance, user centric software solutions with intuitive and engaging designs.</div><br>
-
-<div>I have expertise in frameworks like React Js, Node Js and Next Js. I leverage AWS Services to create efficient and reliable solutions. MongoDB and PostgreSQL for database management, Clerk and Zustand for effective authentication and state management.
 </div>
+<a href="https://www.twitter.com/anuragRBU" target="__blank"><img src="https://img.shields.io/twitter/follow/anuragRBU?style=social" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/anuragsinghrbu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</a>
+<br>
+<br>
+
+- I build web apps that stand out
+- Tiny solo web dev studio at [Shadyx](https://shadyxui.in)
+- Building [Shadyx UI](https://shadyxui.in) and [Scrivo](https://scrivo.vercel.app)
+- Tech , projects and shitposting at [Twitter](https://twitter.com/anuragRBU)
+
 
