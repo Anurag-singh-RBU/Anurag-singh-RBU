@@ -6,7 +6,7 @@
 <br>
 
 - I build web apps that stand out
-- Checkout my npm CLI [@anuragcodes/shadyx](https://www.npmjs.com/package/@anuragcodes/shadyx)
+- Checkout my npm package [@anuragcodes/shadyx](https://www.npmjs.com/package/@anuragcodes/shadyx)
 - Building [Shadyx UI](https://shadyxui.in) and [Axion](https://vectrus.vercel.app)
 - Tech , projects and shitposting at [Twitter](https://twitter.com/anuragRBU)
 
