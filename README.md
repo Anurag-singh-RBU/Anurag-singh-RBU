@@ -7,7 +7,7 @@
 
 - I build web apps that stand out
 - Tiny solo web dev studio at [Shadyx](https://shadyxui.in)
-- Building [Shadyx UI](https://shadyxui.in) and [Scrivo](https://scrivo.vercel.app)
+- Building [Shadyx UI](https://shadyxui.in) and [Axion](https://vectrus.vercel.app)
 - Tech , projects and shitposting at [Twitter](https://twitter.com/anuragRBU)
 
 
